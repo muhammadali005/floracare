@@ -1,0 +1,8 @@
+{
+  "name": "FloraCare - AI Plant Identifier & Garden Assistant",
+  "description": "Snap or upload a plant photo to instantly identify the species, diagnose plant health, and receive customized care instructions with an interactive botanical chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
